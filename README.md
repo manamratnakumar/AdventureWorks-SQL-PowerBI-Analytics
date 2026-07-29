@@ -1,6 +1,6 @@
 # Retail-Data-Warehouse-SQL-Server-PowerBI
 
-AdventureWorks Sales Analytics | End-to-End Data Warehouse & Power BI Dashboard
+AdventureWorks Sales Analytics | End-to-End Data Warehouse & Power BI Dashboard 
 
 An enterprise-level end-to-end Business Intelligence project built using SQL Server and Power BI to transform raw sales data into meaningful business insights through ETL, Data Warehousing, Data Modeling, DAX, and Interactive Dashboarding.
 
@@ -26,11 +26,17 @@ Business Goal
 
 Develop a scalable Business Intelligence solution that enables business stakeholders to:
 Monitor overall sales performance
+
 Track sales trends over time
+
 Identify top-performing products and categories
+
 Analyse customer purchasing behaviour
+
 Evaluate geographical sales distribution
+
 Monitor product return performance
+
 Support strategic business decision-making using interactive dashboards
 
 Business Questions
@@ -38,25 +44,39 @@ Business Questions
 The dashboard answers the following business questions:
 
 Sales Performance
+
 How is sales performance changing over time?
+
 Which product categories contribute the most to sales?
+
 Which products generate the highest sales volume?
+
 What are the monthly and yearly sales trends?
 
 Customer Analysis
+
 How many customers purchased products?
+
 Which customer groups contribute the most?
+
 Which countries generate the highest sales?
+
 How does customer distribution vary geographically?
 
 Product Analysis
+
 Which products perform best?
+
 Which product categories dominate sales?
+
 Which subcategories require attention?
 
 Return Analysis
+
 Which products have the highest return rate?
+
 Which categories generate the most returns?
+
 How can product returns be reduced?
 
 Dataset Used
@@ -66,14 +86,23 @@ AdventureWorks Sales Dataset (CSV)
 Files included:
 
 Calendar Lookup
+
 Customer Lookup
+
 Product Lookup
+
 Product Categories Lookup
+
 Product Subcategories Lookup
+
 Territory Lookup
+
 Returns Data
+
 Sales Data 2020
+
 Sales Data 2021
+
 Sales Data 2022
 
 Project Architecture
@@ -109,14 +138,23 @@ Project Architecture
 The project follows a SQL-based ETL process.
 
 Extract
+
 Imported CSV files into SQL Server
+
 Loaded raw data into staging tables
+
 Transform
+
 Removed duplicate records
+
 Cleaned missing values
+
 Standardised data types
+
 Created lookup relationships
+
 Validated business rules
+
 Optimised table structure
 
 Load
@@ -124,13 +162,17 @@ Load
 Loaded transformed data into:
 
 Dimension Tables
+
 Fact Tables
 
 using a Star Schema.
 
 Data Warehouse Design
+
 Fact Tables
+
 Fact Sales
+
 Fact Returns
 Dimension Tables
 Dim Customer
