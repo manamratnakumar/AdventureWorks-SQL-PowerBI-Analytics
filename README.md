@@ -15,11 +15,17 @@ The project follows industry-standard Business Intelligence practices including:
 Data Warehousing:
 
 ETL Process
+
 Data Cleaning
+
 Data Validation
+
 Star Schema Design
+
 SQL Analytics
+
 DAX Calculations
+
 Interactive Power BI Dashboard
 
 Business Goal:
