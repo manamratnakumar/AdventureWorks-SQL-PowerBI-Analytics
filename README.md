@@ -1,4 +1,4 @@
-# Retail-Data-Warehouse-SQL-Server-PowerBI
+# AdventureWorks-SQL-PowerBI-Analytics
 
 AdventureWorks Sales Analytics | End-to-End Data Warehouse & Power BI Dashboard 
 
