@@ -1,7 +1,9 @@
 # Retail-Data-Warehouse-SQL-Server-PowerBI
+
 AdventureWorks Sales Analytics | End-to-End Data Warehouse & Power BI Dashboard
 
 An enterprise-level end-to-end Business Intelligence project built using SQL Server and Power BI to transform raw sales data into meaningful business insights through ETL, Data Warehousing, Data Modeling, DAX, and Interactive Dashboarding.
+
 Project Overview
 
 Organizations generate massive amounts of sales data every day. However, raw transactional data alone does not provide meaningful insights for business decision-making.
@@ -9,9 +11,9 @@ Organizations generate massive amounts of sales data every day. However, raw tra
 This project demonstrates how to design and build a complete Business Intelligence solution by transforming raw AdventureWorks sales data into a structured SQL Server Data Warehouse and developing an interactive Power BI dashboard that enables business users to monitor sales performance, identify trends, evaluate product performance, analyse customer behaviour, and track product returns.
 
 The project follows industry-standard Business Intelligence practices including:
-The project follows industry-standard Business Intelligence practices including:
 
 Data Warehousing
+
 ETL Process
 Data Cleaning
 Data Validation
@@ -19,10 +21,10 @@ Star Schema Design
 SQL Analytics
 DAX Calculations
 Interactive Power BI Dashboard
+
 Business Goal
 
 Develop a scalable Business Intelligence solution that enables business stakeholders to:
-
 Monitor overall sales performance
 Track sales trends over time
 Identify top-performing products and categories
@@ -75,6 +77,7 @@ Sales Data 2021
 Sales Data 2022
 
 Project Architecture
+
                   AdventureWorks CSV Files
                            │
                            ▼
