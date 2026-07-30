@@ -27,8 +27,9 @@ This project follows a complete Business Intelligence architecture that transfor
              Interactive Business Dashboard
              
 
-             Components
+          
 
+Components
              
 AdventureWorks CSV Files
 
