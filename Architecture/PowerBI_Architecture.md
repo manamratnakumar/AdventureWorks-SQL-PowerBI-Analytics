@@ -5,18 +5,23 @@ Power BI connects directly to SQL reporting views.
 SQL Reporting Views
         │
         ▼
+        
         Power BI Desktop
         │
         ▼
+        
         Data Model
         │
         ▼
+        
         DAX Measures
         │
         ▼
+        
         Dashboard Visuals
         │
         ▼
+        
         Business Insights
 
 
