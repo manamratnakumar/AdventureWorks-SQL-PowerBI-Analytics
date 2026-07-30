@@ -215,7 +215,7 @@ Dim Calendar ---- Fact Sales ---- Dim Product
 
 
 
- Technologies Used
+Technologies Used
                 
 Technology                              Purpose
 SQL Server 2022                         Data Warehouse
