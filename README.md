@@ -213,7 +213,10 @@ Dim Calendar ---- Fact Sales ---- Dim Product
                        │
                  Dim Territory
 
-                 Technologies Used
+
+
+ Technologies Used
+                
 Technology                              Purpose
 SQL Server 2022                         Data Warehouse
 T-SQL	                                  ETL & Analytics
