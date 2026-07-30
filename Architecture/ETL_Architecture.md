@@ -24,6 +24,8 @@ Fact Tables
      │
      ▼
 Reporting Views
+ 
+ 
 
 ETL Stages
 
