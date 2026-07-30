@@ -4,32 +4,22 @@ The ETL pipeline loads raw data into the warehouse.
 
 CSV Files
      │
-     
-Staging Tables
+     Staging Tables
+     │
+     Data Cleaning
+     │
+     Data Validation
+     │
+     Business Transformation
 
      │
-     
-Data Cleaning
+     Dimension Tables
 
      │
-     
-Data Validation
+     Fact Tables
 
      │
-     
-Business Transformation
-
-     │
-     
-Dimension Tables
-
-     │
-     
-Fact Tables
-
-     │
-     
-Reporting Views
+     Reporting Views
  
  
 
