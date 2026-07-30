@@ -140,7 +140,12 @@ Project Architecture
                            ▼
               Interactive Executive Dashboard
 
-              ETL Pipeline
+
+
+
+
+              
+ETL Pipeline
 
 The project follows a SQL-based ETL process.
 
