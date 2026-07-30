@@ -28,6 +28,8 @@ This project follows a complete Business Intelligence architecture that transfor
              
 
              Components
+
+             
 AdventureWorks CSV Files
 
 SQL Server
