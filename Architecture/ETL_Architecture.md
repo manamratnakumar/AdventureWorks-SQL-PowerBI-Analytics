@@ -3,6 +3,7 @@ ETL Architecture
 The ETL pipeline loads raw data into the warehouse.
 
 CSV Files
+
      │
      
      Staging Tables
