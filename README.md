@@ -719,6 +719,10 @@ Relationships were configured using one-to-many cardinality, with dimension tabl
 <i>Figure: Enterprise Star Schema Data Model designed in Power BI, illustrating relationships between fact and dimension tables.</i>
 </p>
 
+<p align="center">
+    <img src="./ScreenShots/Relationships.png" alt="Power BI Relationships" width="1600">
+</p>
+
 
 
 
