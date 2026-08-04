@@ -634,6 +634,91 @@ This query compares yearly sales performance to measure business growth and iden
 <p align="center">
   <img src="./ScreenShots/Year%20Over%20Year%20Growth%20SQL.png" alt="Year Over Year Growth SQL" width="1400">
 </p>
-  
+
+ DATA MODELING (Star Schema)
+
+ Data modeling is the foundation of every successful Business Intelligence solution. Instead of directly connecting all tables, a Star Schema was designed to improve performance, simplify DAX calculations,
+ 
+ and ensure scalable reporting.
+
+The model separates transactional data from descriptive attributes, making analytical queries more efficient and easier to maintain.
+
+Why Star Schema?
+
+The Star Schema was selected because it:
+
+Improves report performance
+
+Simplifies relationships
+
+Supports advanced DAX calculations
+
+Reduces model complexity
+
+Enables efficient filtering
+
+Follows Microsoft Power BI best practices
+
+Fact Tables
+
+Fact Sales
+
+Contains transactional sales information including:
+
+Order Number
+
+Order Date
+
+Product Key
+
+Territory Key
+
+Order Quantity
+
+Fact Returns
+
+Contains return-related transactions for analyzing product return behavior.
+
+Dimension Tables
+DimDate
+
+Used for:
+
+Year
+
+Quarter
+
+Month
+
+Time Intelligence (YTD, MTD, QTD)
+
+Product
+
+Stores product-level descriptive information.
+
+Product Category
+
+Groups products into business categories.
+
+Territory
+
+Provides geographical analysis by region or country.
+
+Relationship Design
+
+Relationships were configured using one-to-many cardinality, with dimension tables filtering the fact tables. This structure enables accurate aggregations, efficient slicers, and reliable DAX calculations.
+
+
+  <h2 align="center">⭐ Data Model (Star Schema)</h2>
+
+<p align="center">
+  <img src="./ScreenShots/Data%20Modelling.png" alt="Data Model" width="1600">
+</p>
+
+<p align="center">
+<i>Figure: Enterprise Star Schema Data Model designed in Power BI, illustrating relationships between fact and dimension tables.</i>
+</p>
+
+
 
 
