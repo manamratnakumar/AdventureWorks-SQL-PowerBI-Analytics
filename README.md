@@ -1189,26 +1189,6 @@ Evaluate strategic performance against historical trends.
 
 Time Intelligence transforms static reports into dynamic analytical tools that support executive decision-making.
 
-<p align="center">
-    <img src="./ScreenShots/Advanced%20DAX%20Measures.png" alt="Advanced DAX Measures - Part 1" width="1600">
-</p>
-
-<p align="center">
-<i>Figure 1: Core DAX measures developed for KPI reporting, sales analysis, and executive business intelligence.</i>
-</p>
-
-<p align="center">
-    <img src="./ScreenShots/Advanced%20DAX%20Measures%202.png" alt="Advanced DAX Measures - Part 2" width="1600">
-</p>
-
-<p align="center">
-<i>Figure 2: Advanced Time Intelligence, growth analysis, rolling calculations, and dynamic business metrics implemented using DAX.</i>
-</p>
-
-
-
-
-
 DASHBOARD WALKTHROUGH
 
 Dashboard Walkthrough
