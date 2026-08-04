@@ -1189,52 +1189,25 @@ Evaluate strategic performance against historical trends.
 
 Time Intelligence transforms static reports into dynamic analytical tools that support executive decision-making.
 
-# ⏳ Advanced Time Intelligence
-
-Time Intelligence is one of the most powerful capabilities of Power BI, enabling dynamic analysis across different time periods. A dedicated Calendar table and advanced DAX measures were implemented to support Year-to-Date (YTD), Month-to-Date (MTD), Quarter-to-Date (QTD), Year-over-Year (YoY), and Rolling calculations.
-
----
-
-## 📅 Time Intelligence DAX Measures
-
-The following measures were developed to provide comprehensive time-based business analysis:
-
-### Implemented Measures
-
-- Year-to-Date (YTD)
-- Month-to-Date (MTD)
-- Quarter-to-Date (QTD)
-- Previous Year Sales
-- Previous Month Sales
-- Previous Quarter Sales
-- Year-over-Year (YoY) Growth
-- Month-over-Month (MoM) Growth
-- Quarter-over-Quarter (QoQ) Growth
-- Rolling 12-Month Sales
-- Running Total
-- Dynamic Time Intelligence KPIs
-
 <p align="center">
-    <img src="./ScreenShots/Time%20Intelligence%20Functions%20.png" alt="Time Intelligence Functions" width="1600">
+    <img src="./ScreenShots/Advanced%20DAX%20Measures.png" alt="Advanced DAX Measures - Part 1" width="1600">
 </p>
 
 <p align="center">
-<i>Figure 1: Advanced DAX Time Intelligence measures implemented for dynamic business reporting.</i>
-</p>
-
----
-
-## 📈 Advanced Time-Based Business Analysis
-
-The Time Intelligence implementation enables users to compare current performance with historical periods, monitor business growth, identify seasonal patterns, and support executive decision-making through interactive KPI reporting.
-
-<p align="center">
-    <img src="./ScreenShots/Time%20Intelligece%20Functions%202.png" alt="Advanced Time Intelligence Functions" width="1600">
+<i>Figure 1: Core DAX measures developed for KPI reporting, sales analysis, and executive business intelligence.</i>
 </p>
 
 <p align="center">
-<i>Figure 2: Enterprise-level Time Intelligence calculations supporting trend analysis, growth comparisons, and executive reporting.</i>
+    <img src="./ScreenShots/Advanced%20DAX%20Measures%202.png" alt="Advanced DAX Measures - Part 2" width="1600">
 </p>
+
+<p align="center">
+<i>Figure 2: Advanced Time Intelligence, growth analysis, rolling calculations, and dynamic business metrics implemented using DAX.</i>
+</p>
+
+
+
+
 
 DASHBOARD WALKTHROUGH
 
@@ -1473,28 +1446,6 @@ Customer Satisfaction Enhancement
 Warranty Analysis
 
 Operational Risk Reduction
-
-Overall Dashboard Experience
-
-The dashboards are designed to provide a seamless analytical experience.
-
-User Journey
-
-Executive Overview
-        │
-        ▼
-Business Performance
-        │
-        ▼
-Product Analysis
-        │
-        ▼
-Return Analysis
-        │
-        ▼
-Strategic Decision Making
-
-nteractive Features
 
 The dashboards include enterprise-level interactive capabilities:
 
