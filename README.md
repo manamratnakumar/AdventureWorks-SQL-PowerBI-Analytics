@@ -723,6 +723,133 @@ Relationships were configured using one-to-many cardinality, with dimension tabl
     <img src="./ScreenShots/Relationships.png" alt="Power BI Relationships" width="1600">
 </p>
 
+POWER BI ENGINEERING
 
+Overview
+
+Power BI was used as the primary Business Intelligence platform to transform validated SQL data into interactive analytical dashboards. The solution was designed using Microsoft's recommended BI development
+
+practices, including Power Query for data transformation, Star Schema modeling, advanced DAX calculations, Time Intelligence, and interactive report design.
+
+Rather than creating static reports, the objective was to build an enterprise-grade reporting solution capable of delivering actionable business insights through an intuitive and responsive user experience.
+
+Power BI Development Workflow
+
+SQL Server Database
+        │
+        ▼
+Power BI Desktop
+        │
+        ▼
+Power Query
+        │
+        ▼
+Data Modeling
+        │
+        ▼
+Relationship Design
+        │
+        ▼
+DAX Engineering
+        │
+        ▼
+Dashboard Development
+        │
+        ▼
+Business Validation
+        │
+        ▼
+Executive Reporting
+
+
+Data Import
+
+The validated SQL dataset was imported into Power BI Desktop, ensuring that only clean and business-ready data entered the reporting layer.
+
+Activities Performed
+
+Connected SQL Server Database
+
+Loaded Fact and Dimension Tables
+
+Verified Record Counts
+
+Validated Column Data Types
+
+Checked Relationship Keys
+
+Power Query Transformation
+
+Power Query was used to prepare the analytical dataset before model creation.
+
+Transformations included:
+
+Data Type Conversion
+
+Column Renaming
+
+Removing Unnecessary Columns
+
+Date Formatting
+
+Data Validation
+
+Query Organization
+
+Relationship Modeling
+
+A well-designed relationship model is the foundation of every efficient Power BI solution.
+
+Relationships were established using Microsoft's recommended Star Schema approach.
+
+Relationship Design
+
+One-to-Many Relationships
+
+Single Direction Filtering
+
+Dimension-to-Fact Filtering
+
+Optimized Relationship Paths
+
+Dimension Tables
+
+DimDate
+
+Product
+
+Product Category
+
+Territory
+
+Fact Tables
+
+Sales
+
+Returns
+
+Dashboard Development
+
+Three business dashboards were designed to address different analytical requirements.
+
+Executive Dashboard
+
+Purpose
+
+Provide executives with a high-level overview of organizational performance.
+
+Features
+
+KPI Cards
+
+Monthly Trend
+
+Regional Analysis
+
+Category Analysis
+
+Product Performance
+
+Executive Summary
 
 
