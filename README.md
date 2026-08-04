@@ -580,6 +580,60 @@ Window Functions
 CTEs
 
 Optimized Dataset
+
+# 💻 SQL Business Analysis
+
+This project leverages Microsoft SQL Server to perform advanced business analytics on the AdventureWorks dataset. SQL was used extensively for data preparation, business reporting, trend analysis, and performance optimization before importing the data into Power BI.
+
+---
+
+## 🌍 Country Performance Analysis
+
+This query analyzes sales performance across different countries, helping identify top-performing markets and supporting regional business decisions.
+
+<p align="center">
+  <img src="./ScreenShots/Country%20Perfomance%20SQL.png" alt="Country Performance SQL" width="1400">
+</p>
+
+---
+
+## 🏆 Product Ranking Analysis
+
+This query ranks products based on sales performance using SQL Window Functions, enabling identification of best-selling and underperforming products.
+
+<p align="center">
+  <img src="./ScreenShots/Rank%20Products%20SQL.png" alt="Rank Products SQL" width="1400">
+</p>
+
+---
+
+## 📅 Rolling 12 Months Analysis
+
+This query calculates a Rolling 12-Month Total to analyze long-term sales trends while minimizing short-term fluctuations.
+
+<p align="center">
+  <img src="./ScreenShots/Rolling%2012%20Months%20SQL.png" alt="Rolling 12 Months SQL" width="1400">
+</p>
+
+---
+
+## 📈 Running Total Analysis
+
+This query computes cumulative sales over time using SQL Window Functions, allowing continuous monitoring of business growth.
+
+<p align="center">
+  <img src="./ScreenShots/Running%20Total%20SQL.png" alt="Running Total SQL" width="1400">
+</p>
+
+---
+
+## 📊 Year-over-Year (YoY) Growth Analysis
+
+This query compares yearly sales performance to measure business growth and identify long-term trends.
+
+<p align="center">
+  <img src="./ScreenShots/Year%20Over%20Year%20Growth%20SQL.png" alt="Year Over Year Growth SQL" width="1400">
+</p>
   
 
 
