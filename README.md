@@ -59,3 +59,9 @@ End-to-End Business Intelligence Solution using SQL Server, Power BI & Advanced 
 
 ![Product Details Dashboard](./ScreenShots/Product%20Details%20Dashboard.png)
 
+<h2>Executive Sales Dashboard</h2>
+
+<p align="center">
+  <img src="./ScreenShots/Executive%20Sales%20Dashboard.png" width="1600">
+</p>
+
