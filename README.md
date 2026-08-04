@@ -254,6 +254,16 @@ calculations through DAX, and interactive visualization using Power BI.
 
 This layered architecture separates data storage, transformation, analytical calculations, and presentation, ensuring scalability, maintainability, and optimized report performance.
 
+<h2 align="center">⭐ Data Model (Star Schema)</h2>
+
+<p align="center">
+  <img src="./ScreenShots/Data%20Modelling.png" alt="Data Model" width="1600">
+</p>
+
+<p align="center">
+<i>Figure: Enterprise Star Schema Data Model designed in Power BI, illustrating relationships between fact and dimension tables.</i>
+</p>
+
   
 
 
