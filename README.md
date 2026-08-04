@@ -240,8 +240,7 @@ Dimension Tables
 
 
 
-
-              Architecture Explanation
+Architecture Explanation
 
 The solution follows a modern Business Intelligence architecture consisting of SQL Server for data preparation, dimensional modeling using a Star Schema, advanced analytical
 
