@@ -1189,8 +1189,633 @@ Evaluate strategic performance against historical trends.
 
 Time Intelligence transforms static reports into dynamic analytical tools that support executive decision-making.
 
+<img src="./ScreenShots/Time%20Intelligence%20Functions.png" width="1600">
 
+<img src="./ScreenShots/Time%20Intelligence%20Functions%202.png" width="1600">
 
+DASHBOARD WALKTHROUGH
+
+Dashboard Walkthrough
+
+The Enterprise Sales Intelligence Platform consists of three analytical dashboards, each designed to answer a specific set of business questions. Together, these dashboards provide executives, business
+
+managers, and analysts with a complete view of organizational performance.
+
+Rather than displaying isolated charts, each dashboard follows a storytelling approach, enabling users to move from high-level KPIs to detailed operational insights.
+
+Dashboard 1 — Executive Command Center
+
+ Purpose
+
+The Executive Command Center serves as the primary reporting interface for business leaders. It provides a real-time overview of sales performance, operational KPIs, growth metrics, and business trends.
+
+This dashboard is designed to answer the question:
+
+How is the business performing today?
+
+Executive KPIs
+
+The dashboard includes enterprise-level KPI cards that provide an instant snapshot of business performance.
+
+KPIs Displayed
+
+Total Quantity Sold
+
+Total Orders
+
+Quantity Year-to-Date (YTD)
+
+Quantity Month-to-Date (MTD)
+
+Quantity Quarter-to-Date (QTD)
+
+Year-over-Year Growth (%)
+
+Return Rate
+
+Rolling 12-Month Performance
+
+Business Visualizations
+
+The dashboard includes visualizations designed to support executive decision-making.
+
+Monthly Sales Trend
+
+Tracks sales performance over time and identifies long-term growth patterns.
+
+Business Question:
+
+How has business performance changed month by month?
+
+Rolling 12-Month Trend
+
+Provides a smoothed performance trend by eliminating short-term fluctuations.
+
+Business Question:
+
+Is the business experiencing sustained long-term growth?
+
+Sales by Territory
+
+Displays geographical sales performance.
+
+Business Question:
+
+Which regions generate the highest business value?
+
+Product Performance Overview
+
+Highlights the contribution of products to overall business performance.
+
+Business Question:
+
+Which products drive organizational success?
+
+Executive KPI Summary
+
+Provides a consolidated overview of all major business metrics.
+
+ Business Decisions Supported
+
+This dashboard enables management to:
+
+Monitor organizational performance
+
+Track business growth
+
+Identify declining trends
+
+Compare current and historical performance
+
+Evaluate strategic business health
+
+Dashboard 2 — Product Performance Intelligence
+
+Purpose
+
+The Product Performance Dashboard focuses on analyzing products, categories, and sales contribution.
+
+It helps management understand:
+
+"Which products are driving business growth?"
+
+Business Questions Answered
+
+Which products generate the highest sales?
+
+Which categories contribute the most?
+
+Which products require attention?
+
+Which products consistently perform well?
+
+Which categories are underperforming?
+
+Visual Components
+
+Best Selling Products
+
+Ranks products based on sales quantity.
+
+Business Value
+
+Identifies high-demand products.
+
+Category Contribution
+
+Compares sales contribution across product categories.
+
+Business Value
+
+Supports inventory planning and category management.
+
+Product Performance Matrix
+
+Provides a detailed comparison of:
+
+Product
+
+Quantity Sold
+
+YTD Quantity
+
+Previous Year Quantity
+
+YoY Growth
+
+Business Value
+
+Supports product-level decision-making.
+
+Geographic Product Performance
+
+Analyzes product demand across different regions.
+
+Business Value
+
+Supports regional marketing strategies.
+
+Business Decisions Supported
+
+Product Portfolio Optimization
+
+Inventory Planning
+
+Sales Strategy
+
+Category Expansion
+
+Product Promotion
+
+Dashboard 3 — Return Intelligence Center
+
+Purpose
+
+The Return Intelligence Dashboard focuses on return behavior and operational quality analysis.
+
+It answers the business question:
+
+"Where are we losing value due to product returns?"
+
+Business Questions Answered
+
+Which products have the highest return rates?
+
+Which regions generate the most returns?
+
+Are return trends increasing?
+
+Which product categories require quality improvements?
+
+Dashboard Components
+
+Return Trend Analysis
+
+Tracks return behavior over time.
+
+Business Value
+
+Identifies increasing return trends.
+
+High Return Products
+
+Ranks products by return quantity.
+
+Business Value
+
+Supports product quality investigations.
+
+Return Rate KPI
+
+Measures the percentage of returned products.
+
+Business Value
+
+Monitors operational performance.
+
+Regional Return Analysis
+
+Displays return distribution across territories.
+
+Business Value
+
+Business Decisions Supported
+
+Product Quality Improvement
+
+Supply Chain Optimization
+
+Customer Satisfaction Enhancement
+
+Warranty Analysis
+
+Operational Risk Reduction
+
+Overall Dashboard Experience
+
+The dashboards are designed to provide a seamless analytical experience.
+
+User Journey
+
+Executive Overview
+        │
+        ▼
+Business Performance
+        │
+        ▼
+Product Analysis
+        │
+        ▼
+Return Analysis
+        │
+        ▼
+Strategic Decision Making
+
+nteractive Features
+
+The dashboards include enterprise-level interactive capabilities:
+
+Cross-filtering across visuals
+
+Drill-down analysis
+
+Drill-through navigation
+
+Dynamic slicers
+
+Sync slicers
+
+Interactive maps
+
+Conditional formatting
+
+Rich tooltips
+
+Responsive KPI cards
+
+Time Intelligence calculations
+
+BUSINESS INSIGHTS & RECOMMENDATIONS
+
+Business Insights
+
+The analysis uncovered several valuable business insights that can support strategic decision-making.
+
+Insight 1 — Product Concentration
+
+A relatively small number of products contribute a significant share of the total quantity sold.
+
+Recommendation:
+
+Prioritize inventory availability and marketing investment for these high-performing products while reviewing the strategy for lower-performing products.
+
+Insight 2 — Category Performance
+
+Sales performance varies considerably across product categories.
+
+Recommendation:
+
+Investigate underperforming categories to determine whether pricing, demand, or product assortment should be adjusted.
+
+Insight 3 — Seasonal Trends
+
+Time Intelligence analysis reveals recurring seasonal variations in sales activity.
+
+Recommendation:
+
+Use these patterns to improve demand forecasting, inventory planning, and promotional campaigns.
+
+Insight 4 — Regional Performance
+
+Sales performance differs across territories, indicating varying levels of market demand.
+
+Recommendation:
+
+Expand successful regional strategies and investigate barriers in lower-performing markets.
+
+Insight 5 — Product Returns
+
+Return analysis identifies specific products and categories with relatively higher return activity.
+
+Recommendation:
+
+Review product quality, supplier performance, customer feedback, and warranty processes to reduce return rates.
+
+Insight 6 — Executive Monitoring
+
+Dynamic KPI cards provide continuous visibility into Year-to-Date, Month-to-Date, Quarter-to-Date, and Year-over-Year performance.
+
+Recommendation:
+
+Use these metrics during monthly and quarterly business reviews to monitor progress against organizational goals.
+
+Business Value Delivered
+
+This Business Intelligence solution provides measurable value by:
+
+Centralizing business reporting
+
+Reducing manual analysis effort
+
+Improving executive visibility into KPIs
+
+Supporting proactive decision-making
+
+Enhancing trend analysis through Time Intelligence
+
+Identifying sales opportunities and operational risks
+
+Enabling interactive self-service analytics
+
+Key Outcomes
+
+The project demonstrates the ability to:
+
+Transform raw transactional data into actionable insights
+
+Design a scalable Star Schema model
+
+Build reusable DAX calculations
+
+Develop interactive executive dashboards
+
+Apply Time Intelligence for business analysis
+
+Communicate findings through business storytelling
+
+Technical Skills Demonstrated
+
+This project demonstrates practical implementation of Business Intelligence concepts used in enterprise environments.
+
+Database Engineering
+
+Microsoft SQL Server
+
+Database Design
+
+Data Import
+
+Data Cleaning
+
+Data Validation
+
+Data Transformation
+
+Aggregate Functions
+
+Joins
+
+Window Functions
+
+Common Table Expressions (CTEs)
+
+Business Query Development
+
+usiness Intelligence
+
+Power BI Desktop
+
+Power Query
+
+Data Modeling
+
+Star Schema Design
+
+Relationship Modeling
+
+Report Development
+
+Interactive Dashboard Design
+
+Executive Reporting
+
+Advanced DAX
+
+Base Measures
+
+KPI Development
+
+Time Intelligence
+
+Running Totals
+
+Rolling Calculations
+
+Variance Analysis
+
+Growth Analysis
+
+Dynamic Measures
+
+Context Transition
+
+Filter Context
+
+Data Visualization
+
+Executive Dashboards
+
+Product Analytics
+
+Return Analysis
+
+KPI Cards
+
+Maps
+
+Matrix Reports
+
+Trend Analysis
+
+Interactive Filtering
+
+Business Analytics
+
+Sales Performance Analysis
+
+Product Performance
+
+Return Intelligence
+
+Geographic Analysis
+
+Executive KPI Monitoring
+
+Trend Analysis
+
+Business Storytelling
+
+Decision Support
+
+Professional Skills
+
+Problem Solving
+
+Analytical Thinking
+
+Data Interpretation
+
+Report Design
+
+Business Communication
+
+Documentation
+
+Requirement Analysis
+
+FUTURE ENHANCEMENTS
+
+Power BI Service Deployment
+
+Publish the report to Power BI Service for organization-wide access.
+
+Scheduled Data Refresh
+
+Automate data refresh to eliminate manual report updates.
+
+Row-Level Security (RLS)
+
+Restrict report access based on organizational roles and user permissions.
+
+Incremental Refresh
+
+Improve report performance by refreshing only newly added transactional data.
+
+Predictive Analytics
+
+Integrate Machine Learning models for:
+
+Sales Forecasting
+
+Demand Prediction
+
+Return Prediction
+
+AI Visuals
+
+Leverage Power BI AI capabilities for:
+
+Key Influencers
+
+Smart Narratives
+
+Decomposition Tree
+
+Anomaly Detection
+
+Mobile Dashboard
+
+Optimize the report for mobile devices to support decision-making on the go.
+
+Power BI Service Features
+
+Data Alerts
+
+Dashboard Subscriptions
+
+Dataflows
+
+Workspace Collaboration
+
+Lessons Learned
+
+Developing this project provided valuable hands-on experience across the complete Business Intelligence lifecycle.
+
+Key learning outcomes include:
+
+SQL Development
+
+Writing efficient business queries
+
+Using Window Functions effectively
+
+Simplifying complex logic with CTEs
+
+Validating large datasets
+
+Improving query readability
+
+Data Modeling
+
+Importance of Star Schema
+
+Relationship optimization
+
+Dimension vs Fact tables
+
+Filter propagation
+
+Performance optimization
+
+Power BI
+
+Interactive dashboard development
+
+Professional dashboard layout
+
+Cross-filtering
+
+Drill-down navigation
+
+Report optimization
+
+DAX
+
+Understanding Filter Context
+
+Context Transition
+
+Time Intelligence
+
+Rolling calculations
+
+Dynamic KPI development
+
+Business Analytics
+
+Transforming raw data into business insights
+
+Answering stakeholder questions
+
+Building executive dashboards
+
+Supporting strategic decision-making
+
+Professional Growth
+
+This project strengthened my understanding of enterprise reporting standards and reinforced the importance of combining technical expertise with business problem-solving.
+
+Project Highlights
+
+Built an end-to-end Business Intelligence solution using SQL Server and Power BI.
+
+Designed a Star Schema data model for scalable analytics.
+
+Developed advanced DAX measures, including YTD, MTD, QTD, YoY, and Rolling 12-Month calculations.
+
+Created three interactive dashboards focused on executive reporting, product performance, and return analysis.
+
+Applied business storytelling principles to transform raw data into actionable insights.
 
 
 
