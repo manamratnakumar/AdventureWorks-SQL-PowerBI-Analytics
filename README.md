@@ -254,16 +254,332 @@ calculations through DAX, and interactive visualization using Power BI.
 
 This layered architecture separates data storage, transformation, analytical calculations, and presentation, ensuring scalability, maintainability, and optimized report performance.
 
-<h2 align="center">⭐ Data Model (Star Schema)</h2>
+PROJECT DEVELOPMENT LIFECYCLE
 
-<p align="center">
-  <img src="./ScreenShots/Data%20Modelling.png" alt="Data Model" width="1600">
-</p>
+Developing a Business Intelligence solution requires much more than creating charts and dashboards. This project follows a structured, end-to-end BI development lifecycle, starting from raw data acquisition and ending with executive-level reporting.
 
-<p align="center">
-<i>Figure: Enterprise Star Schema Data Model designed in Power BI, illustrating relationships between fact and dimension tables.</i>
-</p>
+Each phase was designed to ensure data quality, analytical accuracy, scalability, and business relevance.
 
+Phase 1 — Business Understanding
+
+The first step involved understanding the business requirements and identifying the key questions that management wanted to answer.
+
+The project was designed to provide visibility into:
+
+Overall sales performance
+
+Product contribution
+
+Return analysis
+
+Regional performance
+
+Business growth trends
+
+Phase 2 — Data Exploration
+
+The AdventureWorks dataset was explored to understand:
+
+Available tables
+
+Relationships
+
+Data volume
+
+Missing values
+
+Duplicate records
+
+Business entities
+
+This helped identify the fact tables and dimension tables required for building the analytical model.
+
+Phase 3 — SQL Development
+
+SQL Server was used to prepare the data before importing it into Power BI.
+
+Activities performed:
+
+Imported raw datasets
+
+Created database objects
+
+Validated data quality
+
+Removed inconsistencies
+
+Optimized business queries
+
+Verified relationships
+
+Phase 4 — Data Modeling
+
+A Star Schema was designed to improve report performance and simplify DAX calculations.
+
+The data model included:
+
+Fact Sales
+
+Fact Returns
+
+DimDate
+
+Product
+
+Product Category
+
+Territory
+
+Phase 5 — Power BI Development
+
+Power BI Desktop was used to create the semantic model.
+
+Development activities included:
+
+Data loading
+
+Power Query transformations
+
+Relationship creation
+
+Measure development
+
+Interactive report design
+
+Phase 6 — DAX Engineering
+
+Business measures were developed using DAX.
+
+These measures included:
+
+Sales KPIs
+
+Return KPIs
+
+Time Intelligence
+
+Growth Analysis
+
+Variance Analysis
+
+Rolling Calculations
+
+Phase 7 — Dashboard Development
+
+Three analytical dashboards were created:
+
+Executive Dashboard
+
+Product Performance Dashboard
+
+Return Intelligence Dashboard
+
+Phase 8 — Business Validation
+
+The final solution was validated by:
+
+Comparing SQL results with Power BI
+
+Verifying KPI calculations
+
+Testing slicers and cross-filtering
+
+Validating Time Intelligence measures
+
+Reviewing dashboard usability
+
+SQL ENGINEERING
+
+SQL Server served as the foundation of the analytical pipeline. Before any visualization or reporting was created, the raw AdventureWorks data was prepared, validated, and optimized
+
+within SQL Server.
+
+This ensured that the Power BI model consumed clean, reliable, and business-ready data.
+
+SQL Development Workflow
+
+AdventureWorks Dataset
+        │
+        ▼
+Database Creation
+        │
+        ▼
+Data Import
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Data Validation
+        │
+        ▼
+Business Query Development
+        │
+        ▼
+Analytical Dataset
+        │
+        ▼
+Power BI
+
+Database Design
+
+The AdventureWorks dataset was imported into SQL Server and organized into structured tables representing different business entities.
+
+The database included:
+
+Sales Transactions
+
+Product Information
+
+Product Categories
+
+Territories
+
+Calendar
+
+Returns
+
+Data Import
+
+Raw CSV files were imported into SQL Server and verified to ensure:
+
+Correct column mapping
+
+Appropriate data types
+
+Successful record loading
+
+Consistent table structures
+
+Data Cleaning
+
+Several data quality checks were performed before analysis.
+
+Activities
+
+Removed duplicate records
+
+Verified NULL values
+
+Standardized date formats
+
+Validated numeric columns
+
+Checked primary and foreign key consistency
+
+Corrected inconsistent values
+
+Data Validation
+
+Data validation ensured that the analytical model was built on trustworthy data.
+
+Validation included:
+
+Record count verification
+
+Duplicate detection
+
+Missing value checks
+
+Referential integrity validation
+
+Product count verification
+
+Date range validation
+
+SQL Business Queries
+
+Business queries were written to answer analytical questions such as:
+
+Top-selling products
+
+Regional performance
+
+Product category contribution
+
+Monthly sales trend
+
+Return statistics
+
+Sales aggregation
+
+Product rankings
+
+Advanced SQL Concepts Used
+
+The project demonstrates practical usage of advanced SQL concepts including:
+
+Window Functions
+
+Used for:
+
+Ranking products
+
+Running totals
+
+Performance comparisons
+
+Common Table Expressions (CTEs)
+
+Used for:
+
+Query readability
+
+Multi-step calculations
+
+Complex business logic
+
+Aggregate Functions
+
+Used for:
+
+Total Sales
+
+Total Orders
+
+Average Quantity
+
+Return Counts
+
+Joins
+
+Implemented:
+
+INNER JOIN
+
+LEFT JOIN
+
+to combine transactional and dimensional data.
+
+SQL Performance Considerations
+
+To improve query efficiency:
+
+Optimized joins
+
+Minimized unnecessary calculations
+
+Applied filtering at the database level
+
+Structured reusable analytical queries
+
+SQL Deliverables
+
+Database Design
+
+Data Cleaning
+
+Data Validation
+
+Business Queries
+
+Aggregation
+
+Window Functions
+
+CTEs
+
+Optimized Dataset
   
 
 
