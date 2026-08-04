@@ -1,6 +1,6 @@
 Enterprise Sales Intelligence Platform
 
-<h1 align="center">🚀 Enterprise Sales Intelligence Platform</h1>
+<h1 align="center"> Enterprise Sales Intelligence Platform</h1>
 
 Transforming Raw Transactional Data into Executive Business Intelligence
 
