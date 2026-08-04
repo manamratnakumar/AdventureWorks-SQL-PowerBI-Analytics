@@ -7,10 +7,6 @@ End-to-End Business Intelligence Solution using SQL Server, Power BI & Advanced 
 
 Transforming Raw Transactional Data into Executive Business Intelligence
 
-End-to-End Business Intelligence Solution using SQL Server, Power BI & Advanced DAX
-
-
-
  Enterprise Dashboard
 
  Product Performance Analytics
