@@ -20,35 +20,21 @@ End-to-End Business Intelligence Solution using SQL Server, Power BI & Advanced 
 
  SQL Server + Power BI + Advanced DAX
 
-# 📊 Dashboard Preview
+
+
+## Executive Sales Dashboard
+
+![Executive Sales Dashboard](./ScreenShots/Executive%20Sales%20Dashboard.png)
 
 ---
 
-## 📌 Executive Sales Dashboard
+## Executive Business Insights Dashboard
 
-The Executive Sales Dashboard provides a comprehensive overview of sales performance, KPI monitoring, Time Intelligence metrics, and business growth trends.
-
-<p align="center">
-  <img src="ScreenShots/Excutive Sales Dashboard.png" width="1000">
-</p>
+![Executive Business Insights Dashboard](./ScreenShots/Executive%20Business%20Insights%20Dashboard.png)
 
 ---
 
-## 📌 Executive Business Insights Dashboard
+## Product Details Dashboard
 
-This dashboard presents executive-level business insights, including product performance, business health indicators, and strategic KPIs for decision-making.
-
-<p align="center">
-  <img src="ScreenShots/Excutive Business Insights Dashboard.png" width="1000">
-</p>
-
----
-
-## 📌 Product Details Dashboard
-
-The Product Details Dashboard enables detailed analysis of product performance, sales contribution, category insights, and return analysis.
-
-<p align="center">
-  <img src="ScreenShots/Product Details Dashboard.png" width="1000">
-</p>
+![Product Details Dashboard](./ScreenShots/Product%20Details%20Dashboard.png)
 
