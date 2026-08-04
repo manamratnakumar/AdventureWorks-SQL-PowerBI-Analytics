@@ -834,6 +834,12 @@ Three business dashboards were designed to address different analytical requirem
 
 Executive Dashboard
 
+<h2 align="center">Executive Sales Dashboard</h2>
+
+<p align="center">
+  <img src="./ScreenShots/Executive%20Sales%20Dashboard%202.png" width="1200">
+</p>
+
 Purpose
 
 Provide executives with a high-level overview of organizational performance.
@@ -851,5 +857,343 @@ Category Analysis
 Product Performance
 
 Executive Summary
+
+Product Performance Dashboard
+
+<h2>Product Details Dashboard</h2>
+
+<p align="center">
+  <img src="./ScreenShots/Product%20Details%20Dashboard.png" width="1000">
+</p>
+
+Purpose
+
+Evaluate product-level performance across categories and territories.
+
+Features
+
+Best Selling Products
+
+Category Contribution
+
+Product Ranking
+
+Product Comparison
+
+Sales Distribution
+
+Return Intelligence Dashboard
+
+<h2>Executive Business Insights Dashboard</h2>
+
+<p align="center">
+  <img src="./ScreenShots/Executive%20Business%20Insights%20Dashboard.png" width="1000">
+</p>
+
+Purpose
+
+Analyze product return behavior and identify operational improvement opportunities.
+
+Features
+
+Return Trends
+
+High Return Products
+
+Return Rate
+
+Regional Return Analysis
+
+Return Distribution
+
+Interactive Features
+
+The dashboards include enterprise-level interactivity.
+
+Implemented Features
+
+ Cross Filtering
+
+ Drill Down
+
+ Drill Through
+
+ Dynamic Slicers
+
+ Sync Slicers
+
+ Interactive Maps
+
+ Conditional Formatting
+
+ Tooltips
+
+ Dynamic Titles
+
+ Business Storytelling
+
+The report was designed to follow a logical storytelling flow:
+
+Executive Overview
+
+↓
+
+Business Performance
+
+↓
+
+Product Analysis
+
+↓
+
+Return Analysis
+
+↓
+
+Strategic Decisions
+
+This structure enables executives to quickly identify business performance before exploring detailed operational insights.
+
+
+DAX ENGINEERING
+
+Overview
+
+DAX (Data Analysis Expressions) was used extensively to transform transactional data into meaningful business metrics.
+
+Rather than relying on simple aggregations, reusable analytical measures were developed to support executive reporting, business comparisons, and trend analysis.
+
+These measures ensure that KPIs respond dynamically to slicers, filters, and cross-report interactions.
+
+DAX Development Strategy
+
+Raw Data
+
+↓
+
+Base Measures
+
+↓
+
+Business KPIs
+
+↓
+
+Time Intelligence
+
+↓
+
+Growth Analysis
+
+↓
+
+Variance Analysis
+
+↓
+
+Executive KPIs
+
+Base Measures
+
+These measures serve as the foundation for all higher-level calculations.
+
+Examples include:
+
+Total Quantity Sold
+
+Total Orders
+
+Total Returns
+
+Return Rate
+
+Total Categories
+
+These reusable measures improve consistency and simplify report maintenance.
+
+KPI Measures
+
+Executive KPIs were developed to provide an instant overview of business performance.
+
+KPIs include:
+
+Total Quantity Sold
+
+Total Orders
+
+Return Rate
+
+Current Sales
+
+YTD Quantity
+
+MTD Quantity
+
+QTD Quantity
+
+These cards update dynamically based on user selections.
+
+Growth Analysis
+
+Growth measures compare business performance across different reporting periods.
+
+Implemented calculations include:
+
+Year-over-Year Growth (YoY)
+
+Month-over-Month Growth (MoM)
+
+Quarter-over-Quarter Growth (QoQ)
+
+Previous Year Comparison
+
+Previous Quarter Comparison
+
+Previous Month Comparison
+
+These metrics help management evaluate business growth and identify performance trends.
+
+Variance Analysis
+
+Variance measures were created to compare current performance with historical benchmarks.
+
+Examples include:
+
+YTD Variance
+
+YTD Growth %
+
+Sales Difference
+
+Quantity Difference
+
+These calculations highlight positive and negative business deviations.
+
+Rolling Analysis
+
+Rolling calculations smooth short-term fluctuations and provide long-term performance visibility.
+
+Implemented calculations include:
+
+Rolling 3 Months
+
+Rolling 12 Months
+
+Running Total
+
+These measures support trend analysis and executive forecasting.
+
+Dynamic Measures
+
+Dynamic DAX measures were created to ensure that dashboards respond correctly to:
+
+Year Selection
+
+Country Selection
+
+Product Selection
+
+Category Selection
+
+Interactive Filtering
+
+This creates a fully interactive analytical experience.
+
+ADVANCED TIME INTELLIGENCE
+
+Overview
+
+Time Intelligence is one of the most powerful capabilities of Power BI, enabling organizations to compare business performance across different periods and identify long-term trends.
+
+A dedicated DimDate table was created to support advanced calendar-based calculations and ensure accurate reporting across years, quarters, and months.
+
+Calendar Table
+
+A centralized Date Dimension was developed containing:
+
+Date
+
+Year
+
+Quarter
+
+Month
+
+Month Number
+
+Month Name
+
+Year-Month
+
+Day
+
+This table serves as the backbone for all Time Intelligence calculations.
+
+Time Intelligence Measures
+
+The project implements enterprise-level calculations, including:
+
+Performance Tracking
+
+Year-to-Date (YTD)
+
+Month-to-Date (MTD)
+
+Quarter-to-Date (QTD)
+
+Historical Comparison
+
+Previous Year Sales
+
+Previous Quarter Sales
+
+Previous Month Sales
+
+Growth Analysis
+
+YoY Growth %
+
+MoM Growth %
+
+QoQ Growth %
+
+Trend Analysis
+
+Rolling 3 Months
+
+Rolling 12 Months
+
+Running Total
+
+Variance Analysis
+
+YTD Variance
+
+YTD Growth
+
+Sales Difference
+
+Business Value
+
+These calculations allow decision-makers to:
+
+Monitor sales performance over time.
+
+Compare current performance with previous periods.
+
+Identify seasonal demand patterns.
+
+Measure organizational growth.
+
+Evaluate strategic performance against historical trends.
+
+Time Intelligence transforms static reports into dynamic analytical tools that support executive decision-making.
+
+
+
+
+
+
+
 
 
