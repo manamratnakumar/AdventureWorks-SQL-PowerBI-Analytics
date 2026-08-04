@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Enterprise Sales Intelligence Platform</h1>
+<h1 align="center"> Enterprise Sales Intelligence Platform</h1>
 
 <p align="center">
 End-to-End Business Intelligence Solution using SQL Server, Power BI & Advanced DAX
